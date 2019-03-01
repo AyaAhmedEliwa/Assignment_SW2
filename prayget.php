@@ -59,8 +59,6 @@ echo "<br>";
   echo "<br>";
   print_r($x->data[$i]->date);
   echo "<br>";
-
-
   }
   
 }?>
