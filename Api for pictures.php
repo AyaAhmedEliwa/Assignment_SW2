@@ -58,5 +58,6 @@ if ($err) {
   echo"#of comments";
   echo" ";
   print_r($x->hits[$i]->comments);
-echo"<br>";}
+  echo"<br>";
+  }
 }?>
